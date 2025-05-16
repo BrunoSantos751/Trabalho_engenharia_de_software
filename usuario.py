@@ -1,4 +1,4 @@
-class Usuario:
+zaclass Usuario:
     def __init__(self, nome):
         self.set_nome(nome)
         self._jogos_favoritos = []
